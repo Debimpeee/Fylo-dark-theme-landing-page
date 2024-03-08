@@ -631,6 +631,7 @@ button:hover {
 
   .productive-img {
     width: 90%;
+    padding: 0;
   }
 
   .productive-heading {
@@ -640,7 +641,7 @@ button:hover {
   }
 
   .productive-text {
-    padding: 0;
+    padding: 3rem;
   }
 
   .productive-text p {
@@ -762,3 +763,4 @@ button:hover {
     margin-bottom: -6rem;
   }
 }
+
